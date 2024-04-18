@@ -1,0 +1,341 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box ;
+}
+img{
+    width: 100%;
+    height: 150vh;
+}
+.container{
+    width: 100%;
+    height: 150vh;
+    background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-01.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pagediv{
+width: 100%;
+height: 20%;
+display: flex;
+justify-content: center;
+padding: 80px;
+}
+.page{
+width: 330px;
+height: 130px;    
+border: 2px solid rgb(103, 99, 98);
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.page p{
+    font-size: 60px;
+    color: rgb(103, 99, 98);
+    
+}
+.begindiv{
+    padding-left: 150px;
+    padding-top: 100px;
+}
+.begin{
+    width: 675px;
+    height: 675px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    align-items: end;
+    justify-content: end;
+}
+.begin h2{
+    width: 700px;
+    padding-bottom: 60px;
+    color: greenyellow;
+    font-size: 45px;
+}
+.begin span{
+    color: rgb(34, 34, 123);
+    font-size: 25px;
+
+}
+.begin button{
+    width: 225px;
+    height: 80px;
+    background-color: red;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    border-style: none;
+    
+
+}
+.begin p{
+    font-size: 25px;
+}
+.sec2{
+    width: 100%;
+    height: 150vh;
+    background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-02.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 650px;
+    height: 100%;
+    background-color: white;
+    opacity: 0.7;
+    margin-left: 900px;
+    padding: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    justify-content: end;
+    padding-top: 200px;
+    padding-bottom: 150px;
+}
+.b1{
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+}
+h2{
+    width: 700px;
+    font-size: 45px;
+    color:rgb(0, 69, 181) ;
+}
+p{
+    color:rgb(96,99,104) ;
+    font-size: 20px;
+}
+.b1 i{
+    font-size:80px ;
+    color:rgb(96,99,104) ;
+}
+button{
+    width: 225px;
+    height: 80px;
+    background-color: rgb(126, 1, 1);
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    border-style: none;
+}
+.sec3{
+    width: 100%;
+    height: 150vh;
+    background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-03.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.text3{
+    height: 300px;
+padding: 120px;
+margin-right: 600px;
+
+}
+.text3 h3{
+    color:rgb(96,99,104) ;
+    font-size: 45px;
+}
+.butdiv{
+    display: flex;
+    gap: 30px;
+padding: 25px 0;
+}
+.butdiv :first-child{
+    background-color: rgb(96,99,104);
+    color: white;
+}
+.butdiv button{
+    width: 150px;
+    height: 50px;
+    background-color: white;
+    color:rgb(96,99,104) ;
+    border: none;
+    font-size: 20px;
+}
+.photo3{
+    width: 80%;
+    height: 65%;
+    text-align: center;
+    display: flex;
+flex-wrap: wrap;
+gap: 20px;
+align-items: center;
+justify-content: start;
+}
+.photo3 div{
+    width: 300px;
+    height: 220px;
+    background-color: white;
+}
+.photo3 img{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+}
+.sec4{
+    width: 100%;
+    height: 150vh;
+    background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-04.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+}
+.box2{
+    width: 600px;
+    height: 100%;
+    background-color: white;
+    opacity: 0.7;
+    margin-left: 100px;
+    padding: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+h3{
+    width: 700px;
+    font-size: 45px;
+    color:rgb(0, 69, 181) ;
+}
+input{
+    width: 90%;
+    height: 80px;
+    font-size: 20px;
+}
+.input1{
+    width: 90%;
+    height: 175px;
+    font-size: 20px;
+}
+.container1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.new{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(232,232,232) ;
+}
+.photo4{
+    width: 47%;
+    height: 99%;
+}
+.text4{
+    width: 47%;
+    height: 99%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: calc(30px)-30px;
+    justify-content: center;
+    align-items: center;
+}
+.photo4 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+.k1{
+    margin-top: -200px;
+    padding: 50px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.textag{
+    color: white;
+    font-size: 45px;
+}
+.textagg{
+    color: white;
+    font-size: 25px;
+}
+.tdiv1{
+    width: 100%;
+    height: 60%;
+    background-color:rgb(255, 255, 255) ;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.tdiv2{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.tdiv1 p{
+    color: rgb(126,129,130);
+    font-size: 25px;
+}
+.ht3{
+    color: black;
+    font-size: 30px;
+}
+.ht1{
+    color: black;
+    font-size: 40px;
+}
+.tdiv2 div{
+    width: 350px;
+    height: 275px;
+    background-color: red;
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: center;
+    padding: 50px;
+}
+.dd{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.dd h2{
+    font-size: 30px;
+    color: white;
+}
+.ddb{
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+    font-size: 20px;
+}
+.tt{
+    display: flex;
+    flex-wrap: wrap;
+}
+.tt h2{
+    font-size: 30px;
+}
